@@ -141,57 +141,78 @@
 ]
 
 = Inhalt
-== Zusammenfassung
-#bg-slide("img/holydoriangray.jpg", opacity: 10%)[
-  #align(horizon)[
-    - Der attraktive und junge *Dorian Gray* lässt sich von Basil Hallward porträtieren.
-    - Durch Lord Henry Wotton wird er zum vollkommenen Hedonismus verführt.
-    - Dorian äußert den Wunsch, dass das Porträt an seiner Stelle altern möge, damit er für immer jung bleibt.
-    - Sein Wunsch geht in Erfüllung: Er stürzt sich in ein Leben voller Laster, Skandale und sogar Mord.
-    - Während Dorian makellos und jung bleibt, wird das Gemälde durch seine Sünden immer hässlicher und monströser.
-    - Am Ende versucht Dorian aus Verzweiflung das Bild zu zerstören, tötet sich dabei jedoch selbst.
-  ]
-]
+== Erster Part
+  - Basil Hallward mahlt ein porträt Dorian Gray
+  - Lord Henry Wotton macht ihn auf alter und Ästhetizismus/hedonsimus aufmerksam
+  - Dorian Gray wünscht sich das Porträt altert statt ihm
+  - Dorian Gray wird Ästhetizismus anhänger und will Kunst und "Schönheit" Erfahren
+  - Er kommt mit Sibyl Vane zussammen
+  - Ihr Bruder schwört blutrache falls er sie schlecht behandelt und geht nach Australien
+  - Sie kann vor "verliebtheit" nicht mehr spielen
+  - Er verlässt sie; sie bring sich um
+  - Erste veränderungen am Bild sperrt es weg; gelbes Buch wird seine Bibel
+== Kapitel 11
+  - 18 Jahre Passion
+  - Musik 
+  - Juwelen
+  - Opiumhöhlen 
+  - Geschichte
+  - Vergleich
+== Letzter Part
+  - Basil besucht Dorian und hält Moralprädigt
+  - Dorian zeight ihm aus Wut das Porträt
+  - Als Basil begreift ersticht er ihn
+  - Er trifft James Vane  am weg zu einer Opiumhöhle er will den tod seiner Schwestter rächen
+  - Er wird paranoid
+  - James vane wird bei einer Jagd erschossen
+  - Dorians Gewissen meldet sich und er will sein Leben ändern 
+  - Durch sein Porträt in dem "heuchlerische "Furchen" zu sehen sind glaubt er sich nicht reinwaschen zu können
+  - Aus verzweiflung will er mit der mordwaffe Basils das bild zerstören 
+  - Sein körper wird alt und schrumpelig wie im bild und dass bild erstrahlt wieder mit seiner jugend
 
-== Figuren und deren Motive
-#bg-slide("img/landschaft.jpg", opacity: 10%)[
-  #align(horizon)[
-    - *Dorian Gray:*
-      Verkörpert Narzissmus und extreme Eitelkeit. Seine Motive sind die ewige Flucht vor dem Tod/Alter und das hemmungslose Ausleben all seiner Triebe.
-    - *Lord Henry Wotton:*
-      Der Zyniker und Theoretiker des „Neuen Hedonismus“. Er fungiert als manipulierender Verführer (eine Art Mephisto), setzt seine radikalen Ideen aber selbst nie in die Tat um.
-    - *Basil Hallward:*
-      Das moralische Gewissen des Romans. Er ist der talentierte Künstler, der von der Perfektion Dorians geblendet wird und letztlich von seiner eigenen Kreation zerstört wird.
-  ]
-]
 
-== Entstehung und Textform
+== Fakten zum Text
 #bg-slide("img/landscapesum.jpg", opacity: 15%)[
   #align(horizon)[
     - *Entstehungszeit:* Geschrieben 1889, Ersterscheinung 1890.
-    - *Zwei Fassungen:* 
-      - 1890: Zunächst als Geschichte in *Lippincott’s Monthly Magazine* (13 Kapitel, stark gekürzt vom Herausgeber wegen "anstößiger" Passagen).
-      - 1891: Erweiterte Buchfassung als *Roman* (20 Kapitel) mit dem berühmten Vorwort zum Ästhetizismus.
     - *Textumfang:* ca. 250–300 Seiten (je nach Ausgabe).
     - *Textform:* Einziger Roman von Oscar Wilde. Er mischt Elemente des *Schauerromans* (Gothic Novel) mit der *Sittenkomödie* (Comedy of Manners) und dem philosophischen Dialog.
   ]
 ]
 
 = Interpretation
-== Sprache, Struktur und Referenzen
+== Sprache, Struktur und Stil
 #bg-slide("img/David+Bates+-+View+in+Cornwall.jpg", opacity: 15%)[
   #align(horizon)[
-    - *Strukturelle Besonderheit:* Die Handlung rückt oft in den Hintergrund. Der Roman wird getragen von endlosen, scharfzüngigen *Dialogen und philosophischen Monologen* (insbesondere durch Lord Henry).
-    - *Sprachliche Besonderheiten:* 
-      - Extrem *aphoristischer* Stil (voller kurzer, pointierter und paradoxer Lebensweisheiten).
-      - Detailverliebte, fast *dekadente Beschreibungen* von Stoffen, Gerüchen und Kunstgegenständen.
-    - *Referenzen auf andere Werke:*
-      - *Die Renaissance* von Walter Pater; Philosophische Grundlage die ins Extrem getrieben wird
-      - *Faust-Motiv:* Der Pakt mit dem „Teufel“ für weltlichen Gewinn (ewige Jugend).
-      - *Narziss-Mythos:* Die tödliche Verliebtheit in das eigene Spiegelbild.
-      - *Joris-Karl Huysmans ("Gegen den Strich"):* Das „gelbe Buch“, das Lord Henry Dorian gibt.
+      - Aphorismen und Paradoxa
+      - Ästhetizisierende beschreibungen
+      - Lange philosophische Konversationen
+      - Bildhafte Metaphern und Symbolik
+      - Dekadentes, sinnliches Vokabular
+      - Ironische und spöttische Töne
+      - Leitmotive und Doppelgänger-Motiv
+      - Chronologischer Erzählfluss
+    ]
+]
+== Referenzen auf andere Werke
+#bg-slide("img/David+Bates+-+View+in+Cornwall.jpg", opacity: 15%)[
+  #align(horizon)[
+      - *Faust-Motiv*
+        - Henry Wotton: Mephisto
+        - Dorian Gray: Faust
+      - *Narziss-Mythos* 
+      - *Gegen den Strich* von Joris-Karl Huysmans
+        - Das „gelbe Buch“
+        - Dorians "heilige Schrift"
+        - "gifitig"
+      - *Die Renaissance* von Walter Pater 
+        - "Golden Book"
+        - Philosophische Grundlage von Wotton und Wilde
+        - Ästhetizismus
+
   ]
 ]
+
 == Textauszug
 #bg-slide("img/bahnhof.jpg", opacity: 10%)[
   #align(horizon)[
@@ -201,6 +222,18 @@
     
     #align(right)[
       – *Lord Henry Wotton* (Kapitel 2)
+    ]
+  ]
+]
+== Textauszug
+#bg-slide("img/bahnhof.jpg", opacity: 10%)[
+  #align(horizon)[
+    #quote(block: true)[
+      „Es gibt so etwas wie ein schlechtes Buch nicht. Bücher sind gut geschrieben oder schlecht geschrieben. Das ist alles.“
+    ]
+    
+    #align(right)[
+      – *Oscar Wilde* (Vorwort)
     ]
   ]
 ]
