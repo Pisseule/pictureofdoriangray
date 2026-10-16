@@ -57,7 +57,7 @@
   #set par(leading: 0.1em)
   #set outline(target: heading.where(outlined: true))
 
-  #outline-slide(title: [Inhaltsverzeichniss])
+  #outline-slide(title: [Inhaltsverzeichnis])
 ]
 
 
@@ -122,7 +122,7 @@
       #align(horizon)[
         - Oscar Wilde hatte eine Liebesbeziehung mit Lord Alfred Douglas.
         - Dessen Vater, der Marquess of Queensberry, hinterließ ihm eine Karte mit der Aufschrift:
-          „For Oscar Wilde, posing somdomite“ (Sodomiter).
+          „For Oscar Wilde, posing sodomite“ (Sodomiter).
         - Wilde verklagte ihn daraufhin wegen Verleumdung.
         - Der Marquess sammelte Beweise für Wildes homosexuelle Kontakte, wodurch die Klage scheiterte.
         - Zweiter Prozess (1895): Wilde wurde wegen „schwerer Unzucht“ zu zwei Jahren Zwangsarbeit verurteilt.
@@ -205,7 +205,7 @@
       - *Gegen den Strich* von Joris-Karl Huysmans
         - Das „gelbe Buch“
         - Dorians "heilige Schrift"
-        - "gifitig"
+        - "giftig"
       - *Die Renaissance* von Walter Pater 
         - "Golden Book"
         - Philosophische Grundlage von Wotton und Wilde
@@ -253,17 +253,17 @@
 #bg-slide("img/holaysailboat.jpg", opacity: 10%)[
   #align(horizon)[
 
-    // Die verführerische philosophie im Herzen des buches und moderner Gesellschaft vor der sowohl das gelbe buch als auch das bildniss von dorian gray warnt aber keiner in der Lage ist zu entkommen
-    *Dorian Gray als logische vollendung des Ästhezismus von Walter Pater*
+    // Die verführerische Philosophie im Herzen des Buches und der modernen Gesellschaft, vor der sowohl das gelbe Buch als auch das Bildnis von Dorian Gray warnen, aber keiner in der Lage ist, zu entkommen
+    *Dorian Gray als logische Vollendung des Ästhetizismus von Walter Pater*
       - Moralische Relativität
-      - begrenzte Zeit, in der es gilt soviel Genuss/Vegnügen wie möglich zu erfahren
-      - Erfahrung/Phenomena als Kunst und Zweck in sich selbst(Sibyl Vane)
+      - begrenzte Zeit, in der es gilt so viel Genuss/Vergnügen wie möglich zu erfahren
+      - Erfahrung/Phänomene als Kunst und Zweck in sich selbst (Sibyl Vane)
 
     *Dorian Gray; das Streben der Gegenwart*
       - Looksmaxxing
       - Konsumerismus
 
-    Dorain Gray ist eine Warnung gegen den Konstanten Versuch schneller als die Hedonistische Tretmühle zu laufen.
+    Dorian Gray ist eine Warnung gegen den konstanten Versuch, schneller als die hedonistische Tretmühle zu laufen.
   ]
 ]
 
@@ -274,20 +274,20 @@
 #align(horizon)[
   Wer trägt die größere Schuld an Dorians psychologischem und moralischem Untergang: 
 
-  Inwiefern lässt sich moralische Schuld durch bloße einflussnahme tatsächlich übertragen
+  Inwiefern lässt sich moralische Schuld durch bloße Einflussnahme tatsächlich übertragen?
 ]
 ]
 
 #bg-slide("img/David+Bates+-+View+in+Cornwall.jpg", opacity: 15%, title:[Diskussionsfrage 2])[
 #align(horizon)[
-  Inwieweit stimmt ihr der Aussage zu, dass viele Motivationen der heutigen Zeit einem neuen Hedonismus unterliegen, der jedoch nicht so konsequenz ausgelebt werden kann wie es Dorian Gray tut?
+  Inwieweit stimmt ihr der Aussage zu, dass viele Motivationen der heutigen Zeit einem neuen Hedonismus unterliegen, der jedoch nicht so konsequent ausgelebt werden kann wie es Dorian Gray tut?
 
 
   #speaker-note[
     + hustle culture
     + looksmaxxing
     + bryan johnson
-    + Konsumerism
+    + Konsumismus
     + Selbstoptimierung
   ]
 ]
