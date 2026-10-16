@@ -142,15 +142,16 @@
 
 = Inhalt
 == Erster Part
-  - Basil Hallward mahlt ein porträt Dorian Gray
-  - Lord Henry Wotton macht ihn auf alter und Ästhetizismus/hedonsimus aufmerksam
-  - Dorian Gray wünscht sich das Porträt altert statt ihm
-  - Dorian Gray wird Ästhetizismus anhänger und will Kunst und "Schönheit" Erfahren
-  - Er kommt mit Sibyl Vane zussammen
-  - Ihr Bruder schwört blutrache falls er sie schlecht behandelt und geht nach Australien
-  - Sie kann vor "verliebtheit" nicht mehr spielen
-  - Er verlässt sie; sie bring sich um
-  - Erste veränderungen am Bild sperrt es weg; gelbes Buch wird seine Bibel
+  - *Basil Hallward* malt ein Porträt von *Dorian Gray*
+  - *Lord Henry Wotton* macht *Dorian* auf das Altern sowie auf Ästhetizismus und Hedonismus aufmerksam
+  - *Dorian Gray* wünscht sich, dass das Porträt an seiner statt altert
+  - *Dorian Gray* wird Anhänger des Ästhetizismus und möchte Kunst sowie „Schönheit“ erfahren
+  - Er kommt mit *Sibyl Vane* zusammen
+  - Ihr Bruder (*James Vane*) geht nach Australien, schwört aber zuvor Blutrache, falls *Dorian* sie schlecht behandelt
+  - *Sibyl* kann vor lauter Verliebtheit nicht mehr schauspielen
+  - Er verlässt sie; daraufhin bringt *Sibyl* sich um
+  - Nach ersten Veränderungen am Bild sperrt *Dorian* es weg; ein „gelbes Buch“ wird zu seiner Bibel
+
 == Kapitel 11
   - 18 Jahre Passion
   - Musik 
@@ -158,18 +159,18 @@
   - Opiumhöhlen 
   - Geschichte
   - Vergleich
-== Letzter Part
-  - Basil besucht Dorian und hält Moralprädigt
-  - Dorian zeight ihm aus Wut das Porträt
-  - Als Basil begreift ersticht er ihn
-  - Er trifft James Vane  am weg zu einer Opiumhöhle er will den tod seiner Schwestter rächen
-  - Er wird paranoid
-  - James vane wird bei einer Jagd erschossen
-  - Dorians Gewissen meldet sich und er will sein Leben ändern 
-  - Durch sein Porträt in dem "heuchlerische "Furchen" zu sehen sind glaubt er sich nicht reinwaschen zu können
-  - Aus verzweiflung will er mit der mordwaffe Basils das bild zerstören 
-  - Sein körper wird alt und schrumpelig wie im bild und dass bild erstrahlt wieder mit seiner jugend
 
+== Letzter Part
+  - *Basil* besucht *Dorian* und hält ihm eine Moralpredigt
+  - *Dorian* zeigt ihm aus Wut das Porträt
+  - Als *Basil* das Ausmaß begreift, ersticht *Dorian* ihn
+  - Auf dem Weg zu einer Opiumhöhle trifft er *James Vane*, der den Tod seiner Schwester rächen will
+  - *Dorian* wird paranoid
+  - *James Vane* wird versehentlich bei einer Jagd erschossen
+  - *Dorians* Gewissen meldet sich, und er beschließt, sein Leben zu ändern
+  - Da das Porträt heuchlerische Züge aufweist, glaubt er jedoch nicht, sich reinwaschen zu können
+  - Aus Verzweiflung versucht er, das Bild mit der Mordwaffe, mit der er *Basil* tötete, zu zerstören
+  - Dabei stirbt er: Sein eigener Körper wird alt und schrumpelig wie auf dem Bild, während das Porträt wieder in seiner ursprünglichen Jugend erstrahlt
 
 == Fakten zum Text
 #bg-slide("img/landscapesum.jpg", opacity: 15%)[
@@ -212,21 +213,9 @@
 
   ]
 ]
+== Textauszüge
 
-== Textauszug
-#bg-slide("img/bahnhof.jpg", opacity: 10%)[
-  #align(horizon)[
-    #quote(block: true)[
-      „Der einzige Weg, eine Versuchung loszuwerden, ist, ihr nachzugeben. Wenn man ihr widersteht, wird die Seele krank vor Sehnsucht nach den Dingen, die sie sich selbst verboten hat, und begehrt, was ihre eigenen ungeheuerlichen Gesetze ungeheuerlich und gesetzwidrig gemacht haben.“
-    ]
-    
-    #align(right)[
-      – *Lord Henry Wotton* (Kapitel 2)
-    ]
-  ]
-]
-== Textauszug
-#bg-slide("img/bahnhof.jpg", opacity: 10%)[
+#bg-slide("img/bahnhof.jpg", opacity: 15%, title:[Textauszug 1])[
   #align(horizon)[
     #quote(block: true)[
       „Es gibt so etwas wie ein schlechtes Buch nicht. Bücher sind gut geschrieben oder schlecht geschrieben. Das ist alles.“
@@ -234,6 +223,18 @@
     
     #align(right)[
       – *Oscar Wilde* (Vorwort)
+    ]
+  ]
+]
+
+#bg-slide("img/bahnhof.jpg", opacity: 15%, title:[Textauszug 2])[
+  #align(horizon)[
+    #quote(block: true)[
+      „Der einzige Weg, eine Versuchung loszuwerden, ist, ihr nachzugeben. Wenn man ihr widersteht, wird die Seele krank vor Sehnsucht nach den Dingen, die sie sich selbst verboten hat, und begehrt, was ihre eigenen ungeheuerlichen Gesetze ungeheuerlich und gesetzwidrig gemacht haben.“
+    ]
+    
+    #align(right)[
+      – *Lord Henry Wotton* (Kapitel 2)
     ]
   ]
 ]
@@ -252,11 +253,13 @@
 #bg-slide("img/holaysailboat.jpg", opacity: 10%)[
   #align(horizon)[
 
-    *Dorian Gray als logische vollendung des neuen Hedonsimus von Walter Pater*
+    // Die verführerische philosophie im Herzen des buches und moderner Gesellschaft vor der sowohl das gelbe buch als auch das bildniss von dorian gray warnt aber keiner in der Lage ist zu entkommen
+    *Dorian Gray als logische vollendung des Ästhezismus von Walter Pater*
       - Moralische Relativität
       - begrenzte Zeit, in der es gilt soviel Genuss/Vegnügen wie möglich zu erfahren
       - Erfahrung/Phenomena als Kunst und Zweck in sich selbst(Sibyl Vane)
-    *Viele moderne Bewegungen operieren mit denselben Zugrundeliegenden Aufnahme*
+
+    *Dorian Gray; das Streben der Gegenwart*
       - Looksmaxxing
       - Konsumerismus
 
@@ -264,44 +267,62 @@
   ]
 ]
 
+
 = Diskussionsfragen
 
-== Diskussionsfrage 1
-#align(horizon)[
-  Wie „based“ ist die Parallele zwischen Dorian Gray und modernem Looksmaxxing? 
-  
-  Ist der heutige Trend zur radikalen körperlichen Selbstoptimierung (Hunter Eyes, Jawline) nur eine moderne Form von Dorian Grays toxischem Narzissmus?
-]
-
-== Diskussionsfrage 2
+#bg-slide("img/landscapesum.jpg", opacity: 15%, title:[Diskussionsfrage 1])[
 #align(horizon)[
   Wer trägt die größere Schuld an Dorians psychologischem und moralischem Untergang: 
-  
-  Lord Henry, der ihn gezielt manipulierte und mit seinen hedonistischen Ideen vergiftete, oder Dorian selbst, der sich freiwillig dafür entschied, diese Ideen radikal auszuleben?
+
+  Inwiefern lässt sich moralische Schuld durch bloße einflussnahme tatsächlich übertragen
 ]
+]
+
+#bg-slide("img/David+Bates+-+View+in+Cornwall.jpg", opacity: 15%, title:[Diskussionsfrage 2])[
+#align(horizon)[
+  Inwieweit stimmt ihr der Aussage zu, dass viele Motivationen der heutigen Zeit einem neuen Hedonismus unterliegen, der jedoch nicht so konsequenz ausgelebt werden kann wie es Dorian Gray tut?
+
+
+  #speaker-note[
+    + hustle culture
+    + looksmaxxing
+    + bryan johnson
+    + Konsumerism
+    + Selbstoptimierung
+  ]
+]
+]
+
+
+
+
 
 #show: appendix
 
-#slide(title: [Danke für eure Aufmerksamkeit])[
-#align(center)[#box(height: 100%, width: 100%)[
-  #place(top + right)[
-    #{
-      let size = 14pt
-      text(size: size)[made with ]
-      box(
-        radius: 2pt,
-        height: size,
-        clip: true,
-        baseline: 20%,
-        image("img/typstlogo.png", fit: "contain")
+#bg-slide("img/schweinbg.png", opacity: 10%, title: [Danke für eure Aufmerksamkeit])[
+  #align(center)[#box(height: 100%, width: 100%)[
+      #place(top + right)[
+        #{
+          let size = 14pt
+          text(size: size)[made with ]
+          link("https://typst.app/")[
+            #box(
+              radius: 2pt,
+              height: size,
+              clip: true,
+              baseline: 20%,
+              image("img/typstlogo.png", fit: "contain")
+            )
+          ]
+        }
+      ]
+      #grid(
+        rows: (1fr, auto),
+        gutter: 1em,
+        align: (top + center, bottom + center),
+        image("img/aufmerksamkeitschwein.png"),
+        [Danke für eure Aufmerksamkeit]
       )
-    }
+    ]
   ]
-  #grid(
-    rows: (1fr, auto),
-    gutter: 1em,
-    align: (top + center, bottom + center),
-    image("img/aufmerksamkeitschwein.png"),
-    [Danke für eure Aufmerksamkeit]
-  )
-]]]
+]
